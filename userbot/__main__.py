@@ -1,6 +1,6 @@
-# Copyright (C) 2019 The Raphielscape Company LLC.
+# Copyright (C) 20121 The MAHADEV Company LLC.
 #
-# Licensed under the Raphielscape Public License, Version 1.c (the "License");
+# Licensed under the MAHADEV Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
 """ Userbot start point """
@@ -25,6 +25,6 @@ except PhoneNumberInvalidError:
 for module_name in ALL_MODULES:
     imported_module = import_module("userbot.modules." + module_name)
 
-LOGS.info("⚡️ Userbot WeebProject Active ⚡️")
+LOGS.info("⚡️ Userbot MahaDev Active ⚡️")
 
 bot.run_until_disconnected()
