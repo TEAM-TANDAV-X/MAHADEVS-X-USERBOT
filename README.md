@@ -37,10 +37,10 @@ Click the button next to create your strings`
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@apisuserbot/String-Session?v=1)
 
 ### Deploy to Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/apisuserbot/WeebProject-Apis/tree/main"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT/tree/main"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
 
 © Special credit
 
 Thank you very so much 🙏
 
-•   [Bian Sepang](https://github.com/BianSepang) - WeebProject
+•  TANDAV X FORCE!!!!
