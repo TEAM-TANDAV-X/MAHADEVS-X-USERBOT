@@ -1,4 +1,4 @@
-# Copyright (C) 2020 Adek Maulana
+# Copyright (C) 2021 Mahadev
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
 # This program is free software: you can redistribute it and/or modify
@@ -84,8 +84,8 @@ async def run_cmd(cmd: List) -> (bytes, bytes):
 
 def post_to_telegraph(title, html_format_content):
     post_client = TelegraphPoster(use_api=True)
-    auth_name = "WeebProject-Apis"
-    auth_url = "https://github.com/apisuserbot/WeebProject-Apis"
+    auth_name = "MahaDev-Tandav"
+    auth_url = "https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS"
     post_client.create_api_token(auth_name)
     post_page = post_client.post(
         title=title,
