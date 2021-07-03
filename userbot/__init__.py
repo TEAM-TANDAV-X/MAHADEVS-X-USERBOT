@@ -1,4 +1,4 @@
-# Copyright (C) 2019 The Raphielscape Company LLC.
+# Copyright (C) 2021 The Mahadev Company LLC.
 #
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
@@ -76,7 +76,7 @@ HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/apisuserbot/WeebProject-Apis.git")
+    "https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT.git")
 # UPSTREAM_REPO_URL branch, the default is master
 UPSTREAM_REPO_BRANCH = os.environ.get(
     "UPSTREAM_REPO_BRANCH", "main")
@@ -93,7 +93,7 @@ OCR_SPACE_API_KEY = os.environ.get("OCR_SPACE_API_KEY", None)
 # Default .alive name anf logo
 ALIVE_NAME = os.environ.get("ALIVE_NAME") or None
 ALIVE_LOGO = os.environ.get(
-    "ALIVE_LOGO") or "https://telegra.ph/file/9e888cb1e485adf3a179e.mp4"
+    "ALIVE_LOGO") or "https://telegra.ph/file/346e8d6aa100fb0df5e85.mp4"
 
 # remove.bg API key
 REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
@@ -266,7 +266,7 @@ with bot:
 
 
 async def check_alive():
-    await bot.send_message(BOTLOG_CHATID, "**⚡WeebProject-Apis⚡** ```Has Been Active!```")
+    await bot.send_message(BOTLOG_CHATID, "**⚡MahaDev-Tandav⚡** ```Has Been Active!```")
     return
 
 with bot:
@@ -282,7 +282,7 @@ with bot:
 async def update_restart_msg(chat_id, msg_id):
     DEFAULTUSER = ALIVE_NAME or "Set `ALIVE_NAME` ConfigVar!"
     message = (
-        f"**Userbot WeebProject-Apis Is Up Running!**\n\n"
+        f"**Userbot MahaDev Is Up Running!**\n\n"
         f"**Telethon :** __{version.__version__}__\n"
         f"**Python :** __{python_version()}__\n"
         f"**User :** __{DEFAULTUSER}__"
