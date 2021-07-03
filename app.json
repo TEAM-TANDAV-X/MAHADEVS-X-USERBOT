@@ -1,6 +1,6 @@
 {
-  "name": "WeebProject UserBot",
-  "description": "[WeebProject] A modular Telegram userbot running on Python 3.9.2",
+  "name": "MahaDev UserBot",
+  "description": "[MahaDev UserBot] A modular Telegram userbot running on Python 3.9.2",
   "keywords": [
     "telegram",
     "userbot",
@@ -8,8 +8,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/apisuserbot/WeebProject-Apis",
-  "website": "https://t.me/KingUserbotSupport",
+  "repository": "https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT",
+  "website": "https://t.me/MAHADEV_X_USERBOT",
   "stack": "container",
   "env": {
     "ALIVE_NAME": {
@@ -44,7 +44,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "In case you maintain a fork, add your repo URL here.",
-      "value": "https://github.com/apisuserbot/WeebProject-Apis",
+      "value": "https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT",
       "required": false
     },
     "COUNTRY": {
