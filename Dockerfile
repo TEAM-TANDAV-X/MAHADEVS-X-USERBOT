@@ -1,5 +1,5 @@
 # Slim buster user python : beta version
-FROM biansepang/Mahadev:buster
+FROM biansepang/mahadev:buster
 
 # MahaDev-UserBot-Siddharth
 # Python
