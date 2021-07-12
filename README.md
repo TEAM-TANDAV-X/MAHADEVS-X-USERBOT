@@ -23,7 +23,7 @@
 <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.5-white?style=for-the-badge&logo=appveyor"/>
 </p>
 
-![Weeb Project](https://telegra.ph/file/477415d5e5fa928e7f39c.jpg)
+![MAHADEV X USERBOT](https://telegra.ph/file/f6ce93cb39a345085b6b9.jpg)
 
 ### Group Support 🇮🇩
 `
