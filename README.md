@@ -1,4 +1,6 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5536523.gif" width="489" height="112" alt="King Ubot" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/388668246811774.gif" width="489" height="112" alt="King Ubot" /></a>
+
+
 
 <p align="center">
   <a href="https://github.com/apisuserbot/WeebProject-Apis/fork">
