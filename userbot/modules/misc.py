@@ -1,6 +1,6 @@
-# Copyright (C) 2019 The Raphielscape Company LLC.
+# Copyright (C) 2021 The Tandav x Company LLC.
 #
-# Licensed under the Raphielscape Public License, Version 1.c (the "License");
+# Licensed under the Tandav x Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
 # You can find misc modules, which dont fit in anything xD
@@ -80,9 +80,8 @@ async def killdabot(event):
 async def reedme(e):
     await e.edit(
         "Here's something for you to read:\n"
-        "\n[WeebProject's README.md file](https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/blob/main/README.md)"     
-        "\n[Setup Guide - How to get Deezer ARL TOKEN](https://notabug.org/RemixDevs/DeezloaderRemix/wiki/Login+via+userToken)"
-        "\n[Special - Note](https://telegra.ph/Special-Note-11-02)"
+        "\n[MahaDev's README.md file](https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/blob/main/README.md)"     
+       
     )
 
 
