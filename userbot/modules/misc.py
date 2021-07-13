@@ -80,10 +80,7 @@ async def killdabot(event):
 async def reedme(e):
     await e.edit(
         "Here's something for you to read:\n"
-        "\n[WeebProject's README.md file](https://github.com/apisuserbot/WeebProject-Apis/blob/main/README.md)"
-        "\n[Setup Guide - Basic](https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02)"
-        "\n[Setup Guide - Google Drive](https://telegra.ph/How-To-Setup-Google-Drive-04-03)"
-        "\n[Setup Guide - LastFM Module](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)"
+        "\n[WeebProject's README.md file](https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/blob/main/README.md)"     
         "\n[Setup Guide - How to get Deezer ARL TOKEN](https://notabug.org/RemixDevs/DeezloaderRemix/wiki/Login+via+userToken)"
         "\n[Special - Note](https://telegra.ph/Special-Note-11-02)"
     )
@@ -107,7 +104,7 @@ async def repeat(rep):
 @register(outgoing=True, pattern=r"^\.repo$")
 async def repo_is_here(wannasee):
     """For .repo command, just returns the repo URL."""
-    await wannasee.edit("• Click here [Repo](https://github.com/apisuserbot/WeebProject-Apis)")
+    await wannasee.edit("• Click here [Repo](https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS)")
 
 
 @register(outgoing=True, pattern=r"^\.raw$")
