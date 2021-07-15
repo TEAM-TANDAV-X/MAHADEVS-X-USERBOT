@@ -2,14 +2,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/apisuserbot/WeebProject-Apis/fork">
-    <img src="https://img.shields.io/github/forks/apisuserbot/WeebProject-Apis?label=Fork&style=social">
+  <a href="https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/fork">
     
-  </a>
-  <a href="https://github.com/apisuserbot/WeebProject-Apis">
-    <img src="https://img.shields.io/github/stars/apisuserbot/WeebProject-Apis?style=social">
-  </a>
-</p>
 
 ![Repo Size](https://img.shields.io/github/repo-size/apisuserbot/WeebProject-Apis?&style=plastic&logo=github)
 [![GitHub issues](https://img.shields.io/github/issues/apisuserbot/WeebProject-Apis?&style=plastic&logo=github)](https://github.com/apisuserbot/WeebProject-Apis/issues)
@@ -35,7 +29,7 @@ __Repository create by [Apis](https://t.me/PacarFerdilla)__
 ### String Session 🖇
 `
 Click the button next to create your strings`
-   [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@apisuserbot/String-Session?v=1)
+   [![Run on Repl.it](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)](https:/@TANDAVSIDDHARTH/replit.com//String-Session?v=1)
 
 ### Deploy to Heroku
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT/tree/main"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
