@@ -1,5 +1,5 @@
 # Slim buster user python : beta version
-FROM biansepang/tandavx:buster
+FROM biansepang/weebproject:buster
 
 # MahaDev-Project
 # Python
