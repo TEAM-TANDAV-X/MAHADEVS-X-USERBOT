@@ -1,5 +1,5 @@
 
-
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/388865034735551.gif" width="1057" height="116" alt="MahaDev X UserBot" /></a>
 
 <p align="center">
   <a href="https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/fork">
