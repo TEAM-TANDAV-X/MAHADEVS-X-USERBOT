@@ -3,7 +3,7 @@ FROM biansepang/tandavx:buster
 
 # MahaDev-Project
 # Python
-# MahadevProject-Apis
+# MahadevProject-Sid
 RUN git clone -b main https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
