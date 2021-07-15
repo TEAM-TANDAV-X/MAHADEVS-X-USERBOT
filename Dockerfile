@@ -1,9 +1,9 @@
 # Slim buster user python : beta version
-FROM biansepang/weebproject:buster
+FROM biansepang/tandavx:buster
 
-# WeebProject-Apis
+# MahaDev-Project
 # Python
-# WeebProject-Apis
+# MahadevProject-Apis
 RUN git clone -b main https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
