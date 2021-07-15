@@ -5,31 +5,20 @@
   <a href="https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/fork">
     
 
-![Repo Size](https://img.shields.io/github/repo-size/apisuserbot/WeebProject-Apis?&style=plastic&logo=github)
-[![GitHub issues](https://img.shields.io/github/issues/apisuserbot/WeebProject-Apis?&style=plastic&logo=github)](https://github.com/apisuserbot/WeebProject-Apis/issues)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/apisuserbot/WeebProject-Apis?&style=plastic&logo=github)](https://github.com/apisuserbot/WeebProject-Apis/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/apisuserbot/WeebProject-Apis?&style=plastic&logo=github)](https://GitHub.com/apisuserbot/WeebProject-Apis/graphs/contributors/)
-<p align="justify">
-<a href="https://github.com/apisuserbot/WeebProject-Apis/commits/WeebProject-Apis"><img src="https://img.shields.io/github/last-commit/apisuserbot/WeebProject-Apis?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-</p>
-<p align="justify">
-<a href="https://pypi.org/project/Telethon/"><img src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
-<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.5-white?style=for-the-badge&logo=appveyor"/>
-</p>
 
 ![MAHADEV X USERBOT](https://telegra.ph/file/f6ce93cb39a345085b6b9.jpg)
 
 ### Group Support 🇮🇩
 `
 Click the button below to join our support group`
-   <a href="https://t.me/KingUserbotSupport"><img src="https://img.shields.io/badge/Grup%20Support%3F-King-red?&style=flat-square?&logo=telegram" width=170px></a></p>
+   <a href="https://t.me/MAHADEV_X_USERBOT"><img src="https://img.shields.io/badge/Grup%20Support%3F-MAHADEV-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-__Repository create by [Apis](https://t.me/PacarFerdilla)__
+__Repository create by [RAM/SIDDHARTH](TANDAV_X_MAHADEV_BAM_BHOLE)__
 
 ### String Session 🖇
 `
 Click the button next to create your strings`
-   [![Run on Repl.it](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)](https:/@TANDAVSIDDHARTH/replit.com//String-Session?v=1)
+   [![Run on Repl.it](https://replit.com/TANDAV-USERBOT)](https:/@TANDAVSIDDHARTH/replit.com//String-Session?v=1)
 
 ### Deploy to Heroku
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT/tree/main"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
