@@ -15,15 +15,16 @@ Click the button below to join our support group`
 
 __Repository create by [RAM/SIDDHARTH](TANDAV_X_MAHADEV_BAM_BHOLE)__
 
-### String Session 🖇
-`
-Click the button next to create your strings`
-   [![Run on Repl.it](https://replit.com/TANDAV-USERBOT)](https:/@TANDAVSIDDHARTH/replit.com//String-Session?v=1)
+
+
 
 ### Deploy to Heroku
 
 [![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT)
 
+### String Session 🖇
+`
+Click the button next to create your strings`
 [![repl](https://telegra.ph/file/62955e5fffbd9f245f070.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
     
 ------------------------------------------------
@@ -37,10 +38,10 @@ Click the button next to create your strings`
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 ------------
 
-
+................
 © Special credit
-
+....................
 Thank you very so much 🙏
 
 •  TANDAV X FORCE!!!!
-
+.....................
