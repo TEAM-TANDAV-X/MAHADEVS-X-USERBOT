@@ -21,7 +21,8 @@ Click the button next to create your strings`
    [![Run on Repl.it](https://replit.com/TANDAV-USERBOT)](https:/@TANDAVSIDDHARTH/replit.com//String-Session?v=1)
 
 ### Deploy to Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT/tree/main"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
+
+[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT)
 
 [![repl](https://telegra.ph/file/62955e5fffbd9f245f070.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
     
@@ -43,4 +44,3 @@ Thank you very so much 🙏
 
 •  TANDAV X FORCE!!!!
 
-[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT)
