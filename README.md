@@ -1,6 +1,6 @@
+# MAHADEV X USERBOT
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/388865034735551.gif" width="1057" height="116" alt="MahaDev X UserBot" /></a>
-
+A POWERFUL AND SUPER USERBOT.......
 <p align="center">
   <a href="https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOTS/fork">
     
@@ -22,6 +22,20 @@ Click the button next to create your strings`
 
 ### Deploy to Heroku
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT/tree/main"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
+
+[![repl](https://telegra.ph/file/62955e5fffbd9f245f070.jpg)](https://replit.com/@TANDAVSIDDHARTH/TANDAV-USERBOT#main.py)
+    
+------------------------------------------------
+## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
+
+- `APP_ID`  =  Get this value from my.telegram.org
+- `API_HASH`  =  Get this value from my.telegram.org
+- `STRING_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `LOGGER_ID`  =  Make A Channel And Get it's ID.
+- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
+------------
+
 
 © Special credit
 
