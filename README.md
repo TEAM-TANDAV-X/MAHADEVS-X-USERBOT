@@ -28,3 +28,5 @@ Click the button next to create your strings`
 Thank you very so much 🙏
 
 •  TANDAV X FORCE!!!!
+
+[![Deploy](https://telegra.ph/file/9737134fa5cfbdf967e0b.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT)
